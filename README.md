@@ -1,2 +1,2 @@
-# MirrorAI-Privacy
+# FaceDermAI-Privacy
  
